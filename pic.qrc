@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>erase .png</file>
+        <file>insert.png</file>
+        <file>treepic.png</file>
+        <file>find.png</file>
+        <file>adjust.png</file>
+        <file>build.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>build.png</file>
+    </qresource>
+</RCC>
